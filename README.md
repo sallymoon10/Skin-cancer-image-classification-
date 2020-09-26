@@ -19,3 +19,8 @@
 - https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000
 
 ### References:
+- This notebook was inspired by the following resources:
+
+- https://www.kaggle.com/xinruizhuang/skin-lesion-classification-acc-90-pytorch
+
+- https://www.kaggle.com/kmader/dermatology-mnist-loading-and-processing
