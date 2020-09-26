@@ -1,7 +1,7 @@
 # Detect skin cancer based on dermatoscopic images of skin lesions 
 
 ### Highlights:
-- Fine-tuned transfer learning based model to classify dermatoscopic images and predict the presence of skin cancer 
+- Fine-tuned pre-trained image recognition model to classify dermatoscopic images and predict the presence of skin cancer 
 - Achieved upto 0.81 AUC with DenseNet model fine-tuned to cancer classification task
 - Tech: Python (Pytorch, Scipy, Numpy, Pandas, matplotlib)
 - Work completed: Data processing (addressing class imbalance, data augmentation, normalization, custom Pytorch Datasets), model development (DenseNet, ResNet, VGG), and model iteration (train and validation pipeline)
